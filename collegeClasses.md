@@ -15,6 +15,12 @@ Programming Languages:
     CSS             Python
     Python          MySQL
     MongoDB         Angular
+    
+    
+    
+    
+[CLick Here to Return to Homepage](README.md)
+[CLick Here to go to Hobbies Page](README.md)
  
  
     
