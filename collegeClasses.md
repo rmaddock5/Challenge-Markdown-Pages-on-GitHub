@@ -19,8 +19,8 @@ Programming Languages:
     
     
     
-[CLick Here to Return to Homepage](README.md)
-[CLick Here to go to Hobbies Page](README.md)
++ [Click Here to Return to Homepage](README.md)
++ [Click Here to go to Interests Page](interests.md)
  
  
     
