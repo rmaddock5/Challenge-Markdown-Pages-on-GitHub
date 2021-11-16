@@ -11,6 +11,9 @@
 | Shameless | Story about a family who learns to live without the parents. |
 | Law and Order SVU    | Solving crimes about Special Victim Unit cases |
 
+#### I love to be outside and play catch with my dog Gunner
 #### I also enjoy spending time with family and friends :)
 
 
++ [Click Here to Return to Homepage](README.md)
++ [Click Here to go to the Interest Page](interests.md)
